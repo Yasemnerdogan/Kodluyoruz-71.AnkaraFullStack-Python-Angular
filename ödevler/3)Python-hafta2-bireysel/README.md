@@ -1,7 +1,7 @@
-# hafta2bireysel
+## hafta2bireysel
  Hafta 2 Bireysel Ödevler
 
-# Döngü Alıştırmaları
+## Döngü Ödevleri
 <ol>
 	<li>En uzun Collatz zinciri</li>
 	<li>Üstel fonksiyon Taylor serisi</li>
@@ -11,7 +11,7 @@
 	<li>SIR salgın modeli</li>
 </ol>
 
-# Fonksiyon Alıştırmaları
+# Fonksiyon Ödevleri
 <ul>
 	<li>Fonksiyona verilen en küçük parametreyi bulma</li>
 	<li>Fibonacci sayıları</li>
