@@ -1,15 +1,15 @@
-## hafta2bireysel
- Hafta 2 Bireysel Ödevler
+## HAFTA2 BİREYSEL ÖDEVLER
+ Hafta 2 Bireysel Ödevleri 
 
 ## Döngü Ödevleri
-<ol>
+<ul>
 	<li>En uzun Collatz zinciri</li>
 	<li>Üstel fonksiyon Taylor serisi</li>
 	<li>Karekök bulma</li>
 	<li>Machin formülüyle pi'yi bulma</li>
 	<li>Lojistik fonksiyon ve kaos</li>
 	<li>SIR salgın modeli</li>
-</ol>
+</ul>
 
 # Fonksiyon Ödevleri
 <ul>
