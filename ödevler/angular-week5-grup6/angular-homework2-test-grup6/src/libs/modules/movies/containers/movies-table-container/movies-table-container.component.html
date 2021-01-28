@@ -1,0 +1,12 @@
+<div class="form-container">
+  <mat-form-field appearance="outline">
+    <mat-label>Filter By Name</mat-label>
+    <input autocomplete="off" type="text" matInput [(ngModel)] ="search" placeholder="Name">
+    <!-- <input autocomplete="off" type="text" matInput (keyup)="applyfilter($event.target.value)" placeholder="Name"> -->
+  </mat-form-field>
+</div>
+{{search}}
+
+<div class="movies-container">
+  <app-movies-table [search]="search" [tableData]="movies"></app-movies-table>
+</div>
